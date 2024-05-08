@@ -24,11 +24,3 @@ Made an Article Summarizer Application using OpenAI's GPT model.
 
 
 For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
-
---- 
-
-Feel free to adjust and expand upon this template to suit your project's specific requirements and details. Happy coding!
